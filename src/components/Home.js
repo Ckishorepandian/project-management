@@ -26,7 +26,7 @@ export default function Home() {
                 <td>{data.StartDate}</td>
                 <td>{data.EndDate}</td>
                 <td>
-                  <Link className="btn btn-primary mx-1">View</Link>
+                  <Link className="btn btn-primary mx-2">View</Link>
                   <Link className="btn btn-outline-primary mx-2">Edit</Link>
                   <button className="btn btn-danger mx-2">Delete</button>
                 </td>
